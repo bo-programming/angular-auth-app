@@ -1,2 +1,2 @@
 # angular-auth-app
-App of Auth usersasdasd
+App Auth user
